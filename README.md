@@ -16,3 +16,7 @@ The modern JavaScript course for everyone! Master JavaScript with projects, chal
 - Practice your skills with 50+ challenges and assignments (solutions included)
 - Get fast and friendly support in the Q&A area
 - Course pathways: design your unique learning path according to your goals!
+
+## 1️⃣ Download starter code
+
+[Starter and final code and FAQs on GitHub](https://github.com/jonasschmedtmann/complete-javascript-course)
