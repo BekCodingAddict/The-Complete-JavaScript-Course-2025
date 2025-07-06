@@ -11,3 +11,7 @@ Javascript is a high-level object-oriented , multi-paradigm programming language
 
 
 ![image](https://github.com/user-attachments/assets/41a4f1c8-c0b0-4070-9bec-346db0f540af)
+
+### Data types
+ ![image](https://github.com/user-attachments/assets/89c2cace-0999-4197-933b-6fc2dc2532fc)
+
